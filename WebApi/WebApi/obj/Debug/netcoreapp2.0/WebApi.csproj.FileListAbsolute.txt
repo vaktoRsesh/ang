@@ -1,0 +1,16 @@
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.AssemblyReference.cache
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Angular\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:\Angular\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.genruntimeconfig.cache

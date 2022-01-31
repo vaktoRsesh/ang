@@ -1,0 +1,24 @@
+<div class="section-container">
+    <h5>Wybierz Sesje: </h5>
+    <input id="sesjaBox" type="number" #box (keyup)="setSesja(box.value)" placeholder="Wybierz Sesje" name="NumerSesji">
+    <button (click)="update()">Odśwież</button>    <div class="cards">
+        <div class="card-deck">
+            <div class="card mb-3 shadow card-theme">
+                <div class="card-header card-header-theme">
+                    <h5>Wilgotność otoczenia</h5>
+                </div>
+                <div class="chart">
+                    <canvas id="myChart"></canvas>
+                </div>
+
+            </div>
+            <div class="card mb-3 shadow card-theme">
+                <div class="card-header card-header-theme">
+                    <h5>Temperatura otoczenia</h5>
+                </div>
+                <div class="chart">
+                    <canvas id="myChart2"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>

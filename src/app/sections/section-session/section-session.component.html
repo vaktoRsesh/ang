@@ -1,0 +1,23 @@
+<div calss="section-container">
+    <h2>
+        Ostatnie Sesje
+    </h2>
+    <table class="table table-inverse table-hover">
+        <thead class="theead-dark">
+            <tr>
+                <th>Numer Sesji(ID)</th>
+                <th>Początek Sesji</th>
+                <th>Koniec Sesji</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let session of sessions;let indexOfelement=index;" >
+                <td>{{session.sessionid}} </td>
+                <td>{{session.dateofstart | date: 'medium'}}</td>
+                <td>{{session.dateofend | date: 'medium'}}</td>
+                <td>{{session.sessionstatus}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
